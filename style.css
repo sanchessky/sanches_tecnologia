@@ -958,7 +958,7 @@ h1, h2, h3, h4 {
     .nav-link {
         font-size: 1.3rem;
     }
-    
+   
     /* Toggle do menu */
     .menu-toggle-input:checked ~ .nav-list {
         left: 0;
